@@ -49,7 +49,7 @@
     .btn{
       border-radius: 30px;
       height: 23%;
-       margin-left:10px;
+       margin-left:-10px;
        margin-top: -8%;
        color: lightblue;
        background: transparent;
