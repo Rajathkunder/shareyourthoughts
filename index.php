@@ -50,7 +50,7 @@
     .btn{
       border-radius: 30px;
       height: 23%;
-       margin-left:-40px;
+       margin-left:-49px;
        margin-top: 10%;
        color: lightblue;
        background: transparent;
@@ -59,18 +59,7 @@
        width:62%;
 
     }
-    .b2{
-      border-radius: 30px;
-      height: 23%;
-       margin-left:57%;
-       margin-top: -13%;
-       color: lightblue;
-       background: transparent;
-       border-color: lightblue;
-       cursor :pointer;
-       width:62%;
-    }
-    
+   
 .box{
   height:20%;
 width:30%;
@@ -98,11 +87,7 @@ color:lightblue;
         
     </form>
 
-<div class="about">
-    <p class="abou">This is a simple static webpage , here we are storing data in text file and retrieving it. here we are not using any Database.
-     <br> <br><b>Gmail : rajath2322@gmail.com</b>
-</p><button class="btn5" onclick="document. location. reload()">Close</button>
-  </div>
+
 
   </div>
  
