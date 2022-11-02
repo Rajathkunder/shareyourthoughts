@@ -55,7 +55,7 @@
        background: transparent;
        border-color: lightblue;
        cursor :pointer;
-       width:42%;
+       width:62%;
 
     }
     .b2{
@@ -67,7 +67,7 @@
        background: transparent;
        border-color: lightblue;
        cursor :pointer;
-       width:42%;
+       width:62%;
     }
     
 .box{
