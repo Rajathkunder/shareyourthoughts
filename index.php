@@ -157,17 +157,17 @@ blockquote {
     quotes: "\201C""\201D""\2018""\2019";
 }
 
-blockquote h2 {
+blockquote h3 {
 font-size:21px;
 }
 
-blockquote h2:before { 
+blockquote h3:before { 
 content: open-quote;
 font-weight: bold;
 font-size:50px;
 color:#889c0b;
 } 
-blockquote h2:after { 
+blockquote h3:after { 
 content: close-quote;
 font-weight: bold;
 font-size:50px;
@@ -180,8 +180,8 @@ color:#889c0b;
 </style>
 </head>
 <body>
-<div class="dd"><blockquote><h2> '.
-   $token.'</h2></blockquote><br></div><br>
+<div class="dd"><blockquote><h3> '.
+   $token.'</h3></blockquote><br></div><br>
    </body>
    </html>';
    $token = strtok("`");
