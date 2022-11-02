@@ -61,8 +61,8 @@
     .b2{
       border-radius: 30px;
       height: 23%;
-       margin-left:37%;
-       margin-top: -8%;
+       margin-left:-37%;
+       margin-top: -13%;
        color: lightblue;
        background: transparent;
        border-color: lightblue;
