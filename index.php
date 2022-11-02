@@ -49,7 +49,7 @@
     .btn{
       border-radius: 30px;
       height: 23%;
-       margin-left:97%;
+       margin-left:27%;
        margin-top: -8%;
        color: lightblue;
        background: transparent;
@@ -61,7 +61,7 @@
     .b2{
       border-radius: 30px;
       height: 23%;
-       margin-left:123%;
+       margin-left:37%;
        margin-top: -8%;
        color: lightblue;
        background: transparent;
