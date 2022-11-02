@@ -95,7 +95,7 @@ color:lightblue;
        
       </div><br>
         <input type="submit" class="btn" value="SHARE">
-        <button class="b2" type="button" >ABOUT</button>
+        
     </form>
 
 <div class="about">
@@ -105,19 +105,7 @@ color:lightblue;
   </div>
 
   </div>
-  <script type="text/javascript"> 
-      document.querySelector('.about').style.display = 'none';
-      document.querySelector('.b2').addEventListener('click', showBtn1);
-
-      function showBtn(e) { 
-        document.querySelector('.container').style.display = 'block'; 
-       e.preventDefault(); 
-      } 
-      function showBtn1(e1) { 
-      document.querySelector('.about').style.display = 'block';
-       e1.preventDefault(); 
-      } 
-      </script>
+ 
 </body>
 </html>
 
