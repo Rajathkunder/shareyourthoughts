@@ -5,6 +5,7 @@
   
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=1024">
   <style type="text/css">
     .btn5:hover{
   box-shadow: 0 0 10px 0 #00d7c3 inset, 0 0 20px 2px red;
