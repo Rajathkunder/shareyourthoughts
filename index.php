@@ -92,7 +92,7 @@ color:lightblue;
       <div class="input-box">
         <input type="text" name="password"  placeholder="'Your thoughts' -by 'Your name'"  class="txt" autocomplete="off" required>
        
-      </div>
+      </div><br>
         <input type="submit" class="btn" value="SHARE">
         <button class="b2" type="button" >ABOUT</button>
     </form>
