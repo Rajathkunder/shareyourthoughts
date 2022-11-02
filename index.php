@@ -51,7 +51,7 @@
       border-radius: 30px;
       height: 23%;
        margin-left:-40px;
-       margin-top: -8%;
+       margin-top: 10%;
        color: lightblue;
        background: transparent;
        border-color: lightblue;
