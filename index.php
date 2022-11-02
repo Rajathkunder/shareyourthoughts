@@ -170,7 +170,7 @@ color:#889c0b;
 blockquote h3:after { 
 content: close-quote;
 font-weight: bold;
-font-size:50px;
+font-size:30px;
 color:#889c0b;
   
 }
