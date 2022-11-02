@@ -2,6 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <style type="text/css">
     .btn5:hover{
@@ -85,7 +86,7 @@ color:lightblue;
 
   
   <div class="box">
-    <h2> SHARE YOUR THOUGHTS</h2>
+    
     <form action="config.php">
       <div class="input-box">
         <input type="text" name="password"  placeholder="'Your thoughts' -by 'Your name'"  class="txt" autocomplete="off" required>
